@@ -61,3 +61,5 @@ app.listen(
     `Server running in ${process.env.NODE_ENV} port ${PORT}`.yellow.bold
   )
 );
+
+export default app;
